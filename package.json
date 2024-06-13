@@ -1,0 +1,46 @@
+{
+	"name": "huy_web",
+	"version": "1.1.43",
+	"private": true,
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"dependencies": {
+		"axios": "^0.19.2",
+		"babel-plugin-flow-react-proptypes": "^26.0.0",
+		"babel-plugin-styled-components": "^1.11.0",
+		"babel-plugin-transform-imports": "^2.0.0",
+		"bootstrap": "4.6.0",
+		"classnames": "^2.2.6",
+		"date-fns": "^2.27.0",
+		"detect-node": "^2.0.4",
+		"dexie": "^3.2.0",
+		"dompurify": "^3.0.5",
+		"eslint-config-next": "^13.5.6",
+		"lodash": "^4.17.21",
+		"next": "^13.5.6",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-redux": "^7.2.1",
+		"react-scripts": "^5.0.1",
+		"reactstrap": "^8.5.1",
+		"redux": "^4.0.5",
+		"redux-thunk": "^2.3.0",
+		"sass": "1.32.13"
+	}
+}
