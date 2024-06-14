@@ -79,7 +79,7 @@ const Categories = () => {
             </Row>
           )}
         </div>
-        {listGames.length > 0 && (
+        {listGames.length > 12 && (
           <div className="v-center">
             <Button
               onClick={() => {
