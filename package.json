@@ -28,6 +28,7 @@
 		"babel-plugin-flow-react-proptypes": "^26.0.0",
 		"babel-plugin-styled-components": "^1.11.0",
 		"babel-plugin-transform-imports": "^2.0.0",
+		"@babel/plugin-proposal-private-property-in-object" :"7.21.11",
 		"bootstrap": "4.6.0",
 		"classnames": "^2.2.6",
 		"date-fns": "^2.27.0",
